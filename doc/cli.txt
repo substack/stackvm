@@ -1,0 +1,5 @@
+Usage: $0 command options
+Where command is one of:
+    deploy
+    config
+    help
